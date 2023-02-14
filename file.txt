@@ -1,0 +1,2 @@
+This file is in feature branch.
+And I have to merge this file in master branch.
